@@ -2,6 +2,7 @@
 name = "tor"
 description = "A library enabling the usage of the Tor network without having Tor installed."
 version = "0.1.0"
+repository = "https://github.com/sahithyen/tor"
 authors = ["Sahithyen Kanaganayagam <mail@sahithyen.com>"]
 license = "MIT"
 edition = "2018"
